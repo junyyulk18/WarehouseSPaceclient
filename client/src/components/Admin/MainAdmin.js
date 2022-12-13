@@ -40,7 +40,7 @@ export default function MainAdmin() {
         <Fragment>
             <div className="container-fluid" style={{ marginTop: '50px' }}>
                 <div className="row">
-                    <div className="col-sm-2" style={{ height: 800, backgroundColor: '#041527', borderRadius: 10, position: 'relative', display: disable ? 'none' : '' }}>
+                    <div className="col-sm-2" style={{ height: 800, backgroundColor: '#1e81b0', borderRadius: 10, position: 'relative', display: disable ? 'none' : '' }}>
                         <span style={{ position: 'absolute', top: '15px', right: '10px', fontSize: '22px', color: '#fff' }}
                             onClick={() => {
                                 setDisable(true)
