@@ -160,7 +160,7 @@ export default function QLBaiVietComponent() {
                                 }}></Input>
                             </Col>
                             <Col>
-                                <Button style={{ width: 200, height: 40, background: '#041527', color: '#fff' }} onClick={() => {
+                                <Button style={{ width: 180, height: 40, borderRadius:20, background: '#2596be', color: '#fff' }} onClick={() => {
                                     setPageNow(1);
                                     LayDanhSachBaiVietSearch(0);
                                 }}>
@@ -177,7 +177,7 @@ export default function QLBaiVietComponent() {
                                 </Select>
                             </Col>
                             <Col>
-                                <Button  style={{ width: 200, height: 40, background: '#041527', color: '#fff' }} onClick={() => {
+                                <Button  style={{ width: 180, height: 40, borderRadius:20, background: '#2596be', color: '#fff' }} onClick={() => {
                                     dispatch({ type: 'SHOW_THEM_BAIVIET' });
                                 }}>
                                     Thêm mới +

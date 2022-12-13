@@ -238,9 +238,9 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mr-auto">
-                            <Nav.Link href="/" style={{ color: '#fff', fontWeight: 'normal' }}>Trang Chủ</Nav.Link>
+                            <Nav.Link href="/" style={{ color: '#fff', fontWeight: 'bolder', paddingLeft:50}}>Trang Chủ</Nav.Link>
                             <Nav.Link
-                                style={{ color: '#fff', fontWeight: 'normal' }}
+                                style={{ color: '#fff', fontWeight: 'bolder', paddingLeft:50}}
                                 onClick={(e) => {
                                     if (cookies.token === undefined) {
                                         e.preventDefault();
