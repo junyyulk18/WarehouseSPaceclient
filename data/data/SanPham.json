@@ -811,7 +811,7 @@
   "giaTriGiamGia": 48,
   "giaCuoiCung": 1346800,
   "soLuong": 100,
-  "soLuongDaBan": 17,
+  "soLuongDaBan": 18,
   "thongTinBaoHanh": {
     "baoHanh": true,
     "loaiBaoHanh": 0,
@@ -834,7 +834,8 @@
     "5ebcf703cacdde1d8caeb469",
     "6085442aea965433586f1afd",
     "608a6cd8db2a8d456c4b6e8d",
-    "5e9ab673699ae60b147a2821"
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
   ],
   "idShop": "SHOP-ADDFFS",
   "idEvent": "",
@@ -1609,6 +1610,110 @@
     "6395758648faae4318226208"
   ],
   "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "63988aec610274373c38f3be"
+  },
+  "idShow": "PRODU-E96AC8",
+  "ten": "Apple iPhone 14 Pro Max 128GB",
+  "lowerTen": "apple iphone 14 pro max 128gb",
+  "img": {
+    "chinh": "https://anhduongmobile.com.vn/uploads/editor/files/WEB/14%20Pro%20Max/4.jpg",
+    "phu": [
+      "https://anhduongmobile.com.vn/uploads/editor/images/iPhone/iphone%2014/iphone%2014promax/1.jpg",
+      "https://anhduongmobile.com.vn/uploads/editor/files/WEB/14%20Pro%20Max/4.jpg",
+      "https://anhduongmobile.com.vn/uploads/editor/files/WEB/14%20Pro%20Max/10.jpg",
+      "https://anhduongmobile.com.vn/uploads/editor/files/WEB/14%20Pro%20Max/7.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 33350000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "iPhone 14 Pro Max - chiếc iPhone gây bất ngờ với nhiều tính năng mới lạ\niPhone 14 Pro Max ược xem là chiếc iPhone đáng mua nhất trong năm trong năm 2022 vì có thể đáp ứng tốt hầu hết mọi nhu cầu của người dùng từ cơ bản đến nâng cao. Với sự nâng cấp mạnh mẽ về mặt phần cứng với camera lên đến 48MP, bộ nhớ trong 1TB, màn hình thiết kế mới hứa hẹn sẽ mang lại trải nghiệm vô cùng tuyệt vời đến người dùng.\n\niPhone 14 Pro Max 128GB - chiếc iPhone gây bất ngờ với nhiều tính năng mới lạ\n\nHình ảnh sắc nét - trải nghiệm mượt mà với tần số quét 120Hz\nMàn hình iPhone 14 Pro Max  được Apple thay đổi hoàn toàn với phần viền màn hình được làm mỏng đều ở 4 cạnh, đi kèm với phần notch được thiết kế hình giọt nước thay vì tai thỏ như trên các phiên bản tiền nhiệm. Sự thay đổi này mang lại cho người dùng trải nghiệm hình ảnh tốt hơn, không gian rộng rãi hơn cũng như “sexy” hơn khi so với các dòng flagship khác.\n\nHình ảnh sắc nét - trải nghiệm mượt mà với tần số quét 120Hz\n\nChiếc máy vẫn sẽ được trang bị tấm nền OLED với kích thước 6.7 inch độ phân giải 1290 x 2796 pixels, hỗ trợ dải màu rộng P3 mang lại hình ảnh vô cùng sắc nét, màu sắc chân thực khiến người dùng phải choáng ngợp. Đi cùng với đó là độ tương phản cao giúp các chi tiết trên ảnh / video càng trở nên tự nhiên, sống động cuốn hút mọi ánh nhìn.\n\nMàn hình Super Retina XDR trên chiếc smartphone này còn sở hữu độ sáng cao lên đến 1600 nits (HDR) sẽ giúp người dùng có thể sử dụng ở mọi điều kiện ánh sáng khác nhau từ trong nhà, bóng râm, trời nắng gắt … mà không bị giảm chất lượng hiển thị.\n\nTrang bị chế độ Always on Display\n\nMột trong những nâng cấp đáng giá nhất trên iPhone 13 Pro đó là được trang bị màn hình 120Hz với công nghệ LTPO giúp màn hình tự điều chỉnh tần số quét từ 10Hz - 120Hz để tiết kiệm pin. Trên iPhone 14 Pro, Apple đã điều chỉnh nó xuống thấp hơn nữa là từ 1Hz - 120hz. Điều này giúp chiếc máy có thể tiết kiệm pin hơn nữa cũng như mang lại khả năng vuốt chạm mượt mà trong mọi ứng dụng / tác vụ mà người dùng sử dụng.\n\nThỏa sức sáng tạo với cụm camera 48MP\niPhone 14 Pro Max  vẫn sẽ được trang bị cụm 3 camera gồm: camera góc rộng 48MP, camera góc siêu rộng 12MP và camera tele 12MP. Với cấu hình phần cứng khủng, chiếc máy sẽ mang lại cho người dùng nhiều bức ảnh chụp vô cùng tuyệt vời.\n\nCamera trên phiên bản này đã được Apple nâng cấp với độ phân giải 48MP thay vì 12MP trên các phiên bản tiền nhiệm. Đây là một sự cải tiến lớn vô cùng đáng giá kể từ thời iPhone 6 đến nay. Với độ phân giải cao hơn, chiếc máy hứa hẹn sẽ mang lại cho người dùng những bức ảnh chân thực, sắc nét giúp mọi người có thể thỏa sức sáng tạo mọi lúc, mọi nơi.\n\nThỏa sức sáng tạo với cụm camera 48MP\n\nBên cạnh những tính năng liên quan đến chụp ảnh, khả năng quay video vẫn là một trong những thế mạnh của iPhone từ xưa đến nay. Việc trang bị cảm biến lớn cùng độ phân giải cao, kết hợp với sự tối ưu từ phần mềm sẽ mang lại những thước phim đậm chất điện ảnh. Từ đó giúp người dùng có thể lưu trữ mọi khoảnh khắc đáng nhớ nhất trong mỗi hành trình, mỗi chuyến đi…\n\nHiệu năng vượt trội với Apple A16 Bionic\niPhone 14 Pro Max  sở hữu hiệu năng mạnh mẽ từ con chip mới nhất của mình là Apple A16 Bionic. Đây là vi xử lý được sản xuất dựa trên tiến trình 4nm mới nhất với hơn 15 tỷ bóng bán dẫn mang lại hiệu năng mạnh mẽ nhưng vẫn đảm bảo tiết kiệm năng lượng cho chiếc máy. Theo Apple, A16 Bionic cho khả năng xử lý nhanh hơn 40% khi so với A15 Bionic trên iPhone 13 Pro, khả năng xử lý đồ họa cũng nhanh hơn 30%.\n\nHiệu năng vượt trội với Apple A16 Bionic\n\nVới hiệu năng mạnh mẽ, iPhone 14 Pro Max chắc chắn sẽ mang lại trải nghiệm giải trí tuyệt vời cho người dùng. Cụ thể, người dùng có thể chơi tốt hầu hết các tựa game nặng trên thị trường hiện nay như: Genshin Impact, PUBG Mobile, Liên quân Mobile… ở mức thiết lập đồ họa cao nhất mà không gặp tình trạng bị drop FPS khi đang chơi, mang lại trải nghiệm giải trí hoàn hảo.\n\nngười dùng có thể chơi tốt hầu hết các tựa game nặng trên thị trường hiện nay\n\nThời lượng pin ấn tượng\nNếu thời lượng pin trên iPhone 13 Pro đã khiến bạn hài lòng thì iPhone 14 Pro Max 256GB chắc chắn sẽ khiến bạn bất ngờ hơn vì thời lượng pin của nó. Mặc dù Apple không đề cập quá nhiều về dung lượng pin trong buổi ra mắt nhưng dự kiến sản phẩm sẽ có thời lượng On Screen nhiều hơn người tiền nhiệm mình 20%.\n\nNgoài ra, Apple cũng trang bị cho chiếc máy khả năng sạc nhanh 20W giúp người dùng có thể sạc nhanh cho máy mà không cần phải chờ đợi quá lâu. iPhone 14 Pro Max  vẫn sẽ được trang bị sạc không dây MagSafe cùng cổng sạc Lightning thay vì USB-C như một số tin đồn trước đây.\n\nNgoại hình nhỏ gọn, cao cấp\nNgoại hình iPhone 14 Pro Max nhìn chung vẫn không có quá nhiều sự thay đổi so với thế hệ tiền nhiệm. Vẫn là khung viền thép không gỉ với thiết kế vuông vắn mang lại cảm giác sang trọng và vô cùng cao cấp. Điểm khác biệt mà người dùng dễ nhận ra nhất là phần màn hình và cụm camera nay đã được thay đổi với thiết kế mới lạ hơn.\n\nNgoại hình nhỏ gọn, cao cấp\n\nChiếc máy vẫn sẽ được trang bị chuẩn kháng nước, kháng bụi IP68 giúp người dùng có thể tự tin sử dụng ở bất kì đâu với bất kì điều kiện môi trường khác nhau từ công trường bụi bặm, đi mưa… mà không lo nước và bụi xâm nhập gây tổn hại đến các chi tiết bên trong.",
+  "moTaNganGon": [
+    "iPhone 14 Pro Max - chiếc iPhone gây bất ngờ với nhiều tính năng mới lạ",
+    "Hình ảnh sắc nét - trải nghiệm mượt mà với tần số quét 120Hz",
+    "Hiệu năng vượt trội với Apple A16 Bionic"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 33350000,
+  "soLuong": 10,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1670940726677"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-DD03CB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "63988fcd610274373c38f3cb"
+  },
+  "idShow": "PRODU-59FD90",
+  "ten": "SAMSUNG Z FOLD 4 512GB",
+  "lowerTen": "samsung z fold 4 512gb",
+  "img": {
+    "chinh": "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/FOLD%204_BLUE.jpg",
+    "phu": [
+      "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/F4_BLACK.jpg",
+      "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/F4_BLACK.jpg"
+    ]
+  },
+  "gia": 32600000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<h3><strong><em>Thiết kế</em></strong></h3><p>Nếu những dòng Z Fold trước đây có thiết kế chỉ có thể gập lại một lần thì Samsung Z Fold 4 đã mang đến sự mới lạ khi có thể gập nhân đôi. Với công nghệ multi-foldable, Samsung đã có bước tiến vượt bậc trong lĩnh vực công nghệ với chiếc smartphone màn hình gập thế hệ mới này. Kích thước máy khi gập là 155 x 130 x 7.1 mm và khi mở máy là: 158.2 x 128.1 x 6.4 mm. Điểm nổi bật là cụm camera sau không còn nằm trong cụm module mà lồi hẳn và kèm theo 1 đèn flash LED.</p><p>&nbsp;</p><p>Trong thiết kế tổng thể, Z Fold 4 có phần khung kim loại kết hợp với kính cường lực góc cạnh hơn, các góc cạnh vát nhẹ hơn cho vẻ ngoài cá tính, hiện đại. Tổng thể&nbsp;Samsung Fold 4&nbsp;được hoàn thiện nguyên khối với khung máy nhẹ hơn, khoảng 254 gram.</p><p>Mặt trước thiết kế camera selfie đục lỗ, các dải ăng-ten hỗ trợ thu phát tín hiệu sóng tốt. Phiên bản màn hình này còn có điểm thú vị nằm ở khả năng kéo dài để mở ộng hiển thị, kết hợp khả năng vừa gập vừa cuộn. Màn hình mở rộng giúp kiểm tra được các thông báo và thông tin quan trọng mà không cần mở màn hình chính.</p><img src=\"https://cdn.cellphones.com.vn/media/wysiwyg/mobile/samsung/samsung-z-fold-4-12.jpg\" alt=\"Đánh giá thiết kế Galaxy Z Fold 4\" width=\"100%\"><p><br></p><p>Ở sản phẩm thế hệ mới, vân tay được đặt tại vị trí dưới màn hình. Nó có thể được sử dụng như máy quét hai mặt, hoạt động trên màn hình bên ngoài trong trường hợp điện thoại gập lại hay khi mở ra. Trên bề mặt màn hình bên ngoài, vị trí quét vân tay nằm ở giữa; khi mở điện thoại ra, vị trí vân tay nằm ở góc dưới cùng bên trái màn hình. Chính vì vậy, người dùng có thể mở khoá điện thoại nhanh chóng, dễ dàng hơn.</p><h3><strong><em>Màn hình</em></strong></h3><p>Samsung Galaxy Z Fold 4 sẽ có màn hình tấm nền AMOLED với kích thước như Z Fold 3. Cụ thể: kích thước tối thiểu 6.19 inch cho màn hình ngoài và 7.56 inch cho màn hình chính. Hứa hẹn mở ra một không gian hiển thị rộng hơn nâng cao trải nghiệm hình ảnh cho người dùng. Bên cạnh đó với tốc độ làm tươi 120Hz, người dùng sẽ được tận hưởng các khung hình tốc độ sắc nét.</p><p>&nbsp;</p><p>Với kích thước màn hình lớn, bạn có thể dễ dàng thực hiện nhiều tác vụ hơn, sử dụng điện thoại đa năng hơn. Ngoài ra, thiết bị còn được trang bị lớp kính cường lực bảo vệ màn hình khỏi các vết trầy xước, hạn chế tác động từ ngoại lực. Đồng thời tính năng Ultra Thin Glassh cải tiến trên màn hình gập sẽ xuất hiện trong siêu phẩm lần này, giúp bề mặt mịn hơn. Hình nền đổi mới trong hệ điều hành One UI Watch 4.5 Beta được cho là sẽ sử dụng cho Samsung Z Fold 4.</p><h3><em>Camera</em></h3><p>Tương tự với người anh em tiền nhiệm của mình,&nbsp;<strong>Galaxy Z Fold 4</strong>&nbsp;cũng sở hữu camera selfie ẩn dưới màn hình với 2 ống kính có độ cảm biến cao. Đối với camera sau, điện thoại sẽ sở hữu cụm 3 camera được cải tiến về công nghệ để mang đến ảnh chụp chuyên nghiệp hơn.&nbsp;Camera chính có cảm biến có thể lên đến 108 MP, nhờ đó hình ảnh trở nên chân thực, sắc nét và chi tiết cao. Bên cạnh đó, ống kính tele 10MP zoom 3X cùng ống kính siêu rộng độ phân giải 12 MP cho khả năng thu phóng cực nét mà không làm giảm chất lượng hình ảnh.</p><p>&nbsp;</p><p>Không chỉ vậy, thiết bị còn sở hữu camera trước 2 ống kính độ phân giải 10 MP và 4 MP. Người dùng dễ dàng selfie mọi lúc mọi nơi, bắt trọn mọi khoảnh khắc cực chất cùng bạn bè, gia đình,… Samsung Z Fold 4 cũng hỗ trợ các tính năng, công nghệ chụp ảnh tân tiến, hiện đại như Zoom kỹ thuật số, Nhận diện khuôn mặt, Chụp liên tục, Tự động cân bằng sáng, ISO, tính năng chụp HDR rực rỡ, sắc nét,…</p><p><strong><em>Dung lượng lưu trữ</em></strong></p><p>Sản phẩm chứa dung lượng bộ nhớ lớn 256 GB ở bản tiêu chuẩn giống Z Fold 3. Nếu người dùng chuyên sử dụng điện thoại để lưu trữ lượng lớn dữ liệu như video, hình ảnh và làm công việc sáng tạo thì bản 512 GB phù hợp hơn. Đặc biệt có thể xuất hiện phiên bản lên đến 1 TB “cực khủng”.&nbsp;Các tác vụ, đa nhiệm mượt mà, nhanh chóng hơn với RAM 12GB hỗ trợ. Do đó, khi thao tác nhiều ứng dụng cùng lúc cũng không xuất hiện tình trạng giật lag, đơ máy. Người dùng có trải nghiệm tốt hơn trong quá trình sử dụng.&nbsp;</p><img src=\"https://cdn.cellphones.com.vn/media/wysiwyg/mobile/samsung/samsung-z-fold-4-6.jpg\" alt=\"Dung lượng lưu trữ Samsung Galaxy Z Fold 4\" width=\"100%\"><p><br></p><h3><strong><em>Chip xử lý</em></strong></h3><p>Bên cạnh thiết kế mới lạ, màn hình sống động thì Samsung Z Fold 4 cũng sở hữu nguồn sức mạnh mạnh mẽ. Sức mạnh đến từ chip Snapdragon 8+ Gen 1 hứa hẹn tăng mạnh về hiệu suất để có thể mang đến khả năng xử lý tốc độ cao, xử lý nhanh và mượt mà mọi tác vụ. Hiệu năng ấn tượng tốt hơn 30%, CPU và GPU nhanh hơn 10% so với Snapdragon gen 1.</p><p>&nbsp;</p><p>Trong một thử nghiệm Geekbench 5, điện thoại&nbsp;<strong>Z Fold 4</strong>&nbsp;đạt 3.808 trong kết quả đa lõi và 1.351 điểm trong bài kiểm tra đơn lõi. Không chỉ vậy, đây là chiếc smartphone đầu tiên sử dụng chip UFS 4.0 cung cấp đến 23.2 Gbps cho mỗi làn, hiệu suất nhanh gấp 2 lần so với USF 3.1. Đây hứa hẹn sẽ là bước cải tiến mới vượt bậc trong kỷ nguyên 5G của Samsung</p><h3><strong><em>Pin và sạc nhanh</em></strong></h3><p>Samsung Galaxy Z Fold 4 cũng sở hữu viên pin có dung lượng cao lên đến 4.400Ah, đảm bảo cung cấp thời lượng liên tục suốt ngày dài cho smartphone. Do đó, bạn có thể thoải mái trải nghiệm mọi tính năng từ lướt web, xem phim, nghe nhạc, làm việc hay chơi game mà không cần lo lắng về dung lượng pin.&nbsp;Với một viên pin lớn thì công nghệ sạc nhanh 25W tương tự Z Fold 3 chắc chắn cũng là một công nghệ không thể thiếu qua cổng sạc USB-C để giúp người dùng có thể nhanh chóng nạp pin cho thiết bị để những trải nghiệm không bị gián đoạn. Như vậy, việc học tập, giải trí hay làm việc được liền mạch hơn.</p><p>&nbsp;</p><h3><strong><em>Khả năng chống nước và bụi</em></strong></h3><p>Các dòng điện thoại cao cấp hiện nay được trang bị khả năng chống nước và bụi đạt chuẩn, Samsung Galaxy Z Fold 4 cũng là một trong số đó. Ở sản phẩm mới, bạn có thể sử dụng ở nhiều điều kiện thời tiết khác nhau, kể cả môi trường ẩm ướt mà không lo ảnh hưởng đến thiết bị. Thế hệ Z Fold mới vẫn hoạt động hoàn toàn ổn định sau khi bị ngấm nước. Lý giải điều này, hãng công nghệ lớn hàng đầu thế giới đã sử dụng chất liệu chống nước tốt nhất hiện nay kết hợp quá trình chế tác tỉ mỉ, khéo léo.</p><img src=\"https://cdn.cellphones.com.vn/media/wysiwyg/mobile/samsung/samsung-z-fold-4-11.jpg\" alt=\"Chống nước, chống bụi Samsung Galaxy Z Fold 4 \" width=\"100%\"><p><br></p><h3><strong><em>Bút S Pen</em></strong></h3><p>Siêu phẩm mới này có bước đột phá, cải tiến mới khi trang bị thêm cây bút S Pen đi kèm cùng khe cắm S Pen. Nhờ vậy người dùng không cần mua riêng, thay vì đó đã tiết kiệm được một khoản chi phí. Chiếc bút “ma thuật” này sẽ giúp bạn thực hiện nhanh các tác vụ viết, chạm, vẽ, ghi chú chính xác trong quá trình sử dụng. Trong trường hợp cần note thông tin quan trọng nhanh chóng, chỉ cần di chuyển bút S Pen lên màn hình mở rộng để lưu lại. Thêm vào đó, bản lề đơn được thiết kế dành riêng cho Samsung Z Fold 4, mang lại tổng thệ mỏng nhẹ hơn nhiều so với thế hệ tiền nhiệm.</p><h3>Các tính năng khác</h3><p>Có thể chiếc điện thoại thông minh đến từ nhà Samsung sẽ sử dụng hệ điều hành One UI tương tự như dòng sản phẩm Galaxy S22. Phần mềm sẽ được cập nhật, hỗ trợ nâng cấp liên tục, mang đến trải nghiệm tốt hơn cho người dùng. Không chỉ vậy, màn hình lớn cho phép thực hiện nhiều tác vụ cùng một lúc và chạy nhiều ứng dụng liên tục. Ngoài ra, các tính năng nổi bật khác có mặt trên Galaxy Z Fold 4 như: Quick Note, Screen Off Memo, Glance và Magnifier,…</p><img src=\"https://cdn.cellphones.com.vn/media/wysiwyg/mobile/samsung/samsung-z-fold-4-13.jpg\" alt=\"Bút S pen Samsung Z Fold 4 \" width=\"100%\"><p><br></p><p>Các chế độ ấn tượng như chia đôi màn hình để chứa cùng lúc 2 hoặc 3 ứng dụng hoạt động. Chỉ cần thực hiện thao tác vuốt là có thể chia đôi màn hình trong tích tắc. Quá trình sử dụng, học tập, làm việc, thao tác chuyển qua lại giữa các ứng dụng trở nên trực quan, dễ dàng hơn rất nhiều lần.</p><h2><strong>Samsung Galaxy Fold 4 gập được bao nhiêu lần?</strong></h2><p>Z Fold 4 được thiết kế màn hình gập ít nếp gấp và thông số kỹ thuật vượt trội. Do đó, thiết bị có khả năng gập với số lần không thua kém gì so với Samsung Z Flip 3. Theo thông tin rò rỉ, thiết bị có khả năng chịu đựng và gập mở tổng cộng lên đến khoảng 200.000 lần. Về sau khả năng gập có thể kém đi một chút.</p><img src=\"https://cdn.cellphones.com.vn/media/wysiwyg/mobile/samsung/samsung-z-fold-4-9.jpg\" alt=\"Samsung Galaxy Fold 4 gập được bao nhiêu lần?\" width=\"100%\"><p><br></p><h2><strong>Điện thoại Samsung Galaxy Z Fold 4 có mấy màu?</strong></h2><p>Siêu phẩm màn hình gập&nbsp;<strong>Samsung Fold 4</strong>&nbsp;tiếp tục tạo ấn tượng với tín đồ công nghệ với các phiên bản màu sắc sẵn có: Green nhẹ nhàng, thanh lịch; Phantom Black huyền bí mạnh mẽ và Beige hiện đại.&nbsp;Ngoài ra, các màu sắc mới bắt mắt, ấn tượng hơn, phù hợp với nhiều người với sở thích khác nhau như: xanh mint , tím mơ mộng và màu vàng trang nhã.&nbsp;</p><p>Phái mạnh có thể lựa chọn sản phẩm phiên bản đen, xám tôn lên cá tính mạnh mẽ, thể hiện đẳng cấp, sự sang trọng và lịch lãm của bản thân. Những phiên bản màu be, xanh mint, tím nhạt hay vàng thích hợp với bạn có tính cách nhẹ nhàng, ưa chuộng phong cách thanh lịch, đơn giản nhưng không đơn điệu.</p><p><br></p>",
+  "moTaNganGon": [
+    "TẶNG GÓI SAMSUNG CARE PLUS 6 THÁNG",
+    "Hỗ trợ trả Góp 0% qua Thẻ tín dụng. ",
+    "Hỗ trợ Góp 0% qua PPF, FE."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 32600000,
+  "soLuong": 15,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 1,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1670942417220"
+    }
+  },
+  "idBrand": "5ea48589b9f24236c8feab01",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-DD03CB",
   "idEvent": "",
   "isAccept": true,
   "isLock": false,

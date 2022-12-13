@@ -40,8 +40,8 @@ export default function MainAdmin() {
         <Fragment>
             <div className="container-fluid" style={{ marginTop: '50px' }}>
                 <div className="row">
-                    <div className="col-sm-2" style={{ height: 800, backgroundColor: '#1e81b0', borderRadius: 10, position: 'relative', display: disable ? 'none' : '' }}>
-                        <span style={{ position: 'absolute', top: '15px', right: '10px', fontSize: '22px', color: '#fff' }}
+                    <div className="col-sm-2" style={{ height: 840, backgroundColor: '#1e81b0', borderRadius: 15, position: 'relative', display: disable ? 'none' : '' }}>
+                        <span style={{ position: 'absolute', top: '15px', right: '20px', fontSize: '22px', color: '#fff' }}
                             onClick={() => {
                                 setDisable(true)
                             }}
@@ -64,7 +64,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Bài viết
                                     </ListGroup.Item>
                                 </Link>
@@ -82,7 +82,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Loại sản phẩm
                                     </ListGroup.Item>
                                 </Link>
@@ -99,7 +99,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Thương hiệu
                                     </ListGroup.Item>
                                 </Link>
@@ -117,7 +117,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Sản phẩm
                                     </ListGroup.Item>
                                 </Link>
@@ -134,7 +134,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Đơn hàng
                                     </ListGroup.Item>
                                 </Link>
@@ -151,7 +151,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Gian hàng
                                     </ListGroup.Item>
                                 </Link>
@@ -167,7 +167,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Người dùng
                                     </ListGroup.Item>
                                 </Link>
@@ -184,7 +184,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Mã giảm giá
                                     </ListGroup.Item>
                                 </Link>
@@ -201,7 +201,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Câu hỏi khách hàng
                                     </ListGroup.Item>
                                 </Link>
@@ -218,7 +218,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Bình luận khách hàng
                                     </ListGroup.Item>
                                 </Link>
@@ -235,7 +235,7 @@ export default function MainAdmin() {
 
                                     }
                                 }}>
-                                    <ListGroup.Item style={{ marginTop: 10 }}>
+                                    <ListGroup.Item style={{ marginTop: 10, borderRadius: 17 }}>
                                         Quản lý Doanh thu
                                     </ListGroup.Item>
                                 </Link>
