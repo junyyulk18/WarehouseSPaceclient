@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "5ea5ed9ca71e06540806cb93"
+  },
+  "idShow": "VOUCH-OPEN",
+  "idLower": "vouch-open",
+  "ten": "Khai Trương WareHouse Space",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 30,
+  "ngayBatDau": {
+    "$date": {
+      "$numberLong": "1668877200000"
+    }
+  },
+  "ngayKetThuc": {
+    "$date": {
+      "$numberLong": "1683651600000"
+    }
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1668445200000"
+    }
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ec8cda2e81ad64458c2812e"
+  },
+  "idShow": "VOUCH-WELCOME",
+  "idLower": "vouch-welcome",
+  "ten": "Chào Mừng Khách Hàng Mới",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 20,
+  "ngayBatDau": {
+    "$date": {
+      "$numberLong": "1671901200000"
+    }
+  },
+  "ngayKetThuc": {
+    "$date": {
+      "$numberLong": "1674579600000"
+    }
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1670864400000"
+    }
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ee707ab19df687cec6aa3e5"
+  },
+  "idShow": "NOEL-2022",
+  "idLower": "NOEL-2022",
+  "ten": "HÒA NHỊP CÙNG NOEL 2022",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 20,
+  "ngayBatDau": "2022-12-20T05:30:52.810Z",
+  "ngayKetThuc": "2022-12-27T05:30:53.523Z",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1670650283128"
+    }
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ee708e5ef8da072c02285aa"
+  },
+  "idShow": "TET-2023",
+  "idLower": "tet-2023",
+  "ten": "CHUỖI SỰ KIỆN SALE LỚN TẾT 2023 TẠI WAREHOUSE SPACE",
+  "loaiGiamGia": 0,
+  "giaTriGiam": 100000,
+  "ngayBatDau": "2022-12-16T05:36:34.386Z",
+  "ngayKetThuc": "2023-02-16T05:36:35.836Z",
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1671082597250"
+    }
+  },
+  "isLock": false
+}]

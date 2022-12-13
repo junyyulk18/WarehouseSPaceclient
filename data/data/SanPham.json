@@ -1,0 +1,1616 @@
+[{
+  "_id": {
+    "$oid": "5ea3b9268ee5c9963c5ea85a"
+  },
+  "idShow": "PRODU-LKJOIU",
+  "ten": "Giày Thể Thao Nam Biti's Hunter",
+  "lowerTen": "giay the thao nam biti's hunter",
+  "img": {
+    "chinh": "https://img.sosanhgia.com/images/500x0/662fe722ce9c494c9c4ee34aa7160f4c/giay-the-thao-nam-bitis-hunter-x-dsmh03500.jpeg",
+    "phu": [
+      "https://product.hstatic.net/1000230642/product/dsmh03500trg__6__d26559701138471888855c5a80a86ce1_1024x1024.jpg",
+      "https://vn-live-01.slatic.net/p/1803f9f2ef31fec50a70f03a03018fc6.jpg",
+      "https://cf.shopee.vn/file/4416147d70bd2fb68befd8b1c1b72e12"
+    ]
+  },
+  "gia": 600000,
+  "noiSanXuat": "Việt Nam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Chất liệu IP \"nhẹ như bay\"",
+    "Chiều cao đế đạt tới 5cm",
+    "Độ đàn hồi >40%"
+  ],
+  "soSao": 5,
+  "giaTriGiamGia": 30,
+  "giaCuoiCung": 420000,
+  "soLuong": 300,
+  "soLuongDaBan": 11,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": false,
+    "loaiBaoHanh": "",
+    "thoiGianBaoHanh": "",
+    "donViBaoHanh": ""
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1634922000000"
+    }
+  },
+  "idBrand": "5ea3c472732b94643482550e",
+  "idShop": "SHOP-ADDFFS",
+  "idCategory": [
+    "5e981fe023f9944a9c8a5dbc",
+    "5ec8d98c3d8f9e78b0a868f8"
+  ],
+  "idUser": [
+    "5eddb2c8392cad4a88bc2e74",
+    "5e9ab673699ae60b147a2821",
+    "5ed37e34027d005bd00e9f14"
+  ],
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea47cefdb15f5105c18da3b"
+  },
+  "idShow": "PRODU-ASDFGD",
+  "ten": "Nồi Lẩu Điện Đa Năng Elmich EL3527 (1.5 Lít)",
+  "img": {
+    "chinh": "https://manhnguyen.com.vn/img/uploads/webp_image/600x-noi-lau-dien-da-nang-elmich-el3527-5-1599834437.jpg.webp",
+    "phu": [
+      "https://manhnguyen.com.vn/img/uploads/webp_image/600x-noi-lau-dien-da-nang-elmich-el3527-5-1599834320.png.webp",
+      "https://manhnguyen.com.vn/img/uploads/webp_image/600x-noi-lau-dien-da-nang-elmich-el3527-4-1599834461.jpg.webp",
+      "https://manhnguyen.com.vn/img/uploads/webp_image/600x-noi-lau-dien-da-nang-elmich-el3527-1-1599834478.jpg.webp"
+    ]
+  },
+  "gia": 1800000,
+  "noiSanXuat": "Trung Quốc",
+  "moTa": "Kiểu dáng thiết kế nhỏ gọn, bắt mắt \nNồi lẩu điện đa năng Elmich EL3527 được thiết kế với tông màu trắng ngà hiện đại, trẻ trung. Với thiết kế kiểu dáng nhỏ gọn, tinh tế tạo nên điểm nhấn không gian nhà bếp của bạn. Cùng dung tích 5 lít có thể sử dụng cho gia đình 4-6 thành viên với đa dạng các món ăn chứ không riêng nấu lẩu.",
+  "moTaNganGon": [
+    "Dung tích: 1.5L",
+    "Nồi đa năng với nhiều công dụng.",
+    "Vỏ sơn tĩnh điện với kết cấu vững chắc.",
+    "Nồi nấu Nhôm 5L sơn chống dính cao cấp.",
+    "Vung kính chịu nhiệt, dễ quan sát thức ăn khi chế biến.",
+    "Núm điều chỉnh nhiệt độ để điều khiển.",
+    "Làm nóng nhanh & đều, an toàn hơn."
+  ],
+  "soSao": 5,
+  "giaTriGiamGia": 70000,
+  "giaCuoiCung": 1730000,
+  "soLuong": 200,
+  "soLuongDaBan": 2,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635440400000"
+    }
+  },
+  "idBrand": "5ea47f3db9f24236c8feaaff",
+  "idShop": "SHOP-ADDFFS",
+  "idCategory": [
+    "5e9854d923f9944a9c8a5dbe",
+    "5ec8dac43d8f9e78b0a86900"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "5ebcf703cacdde1d8caeb469",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea480e1db15f5105c18da3d"
+  },
+  "idShow": "PRODU-LDJUYW",
+  "ten": "Laptop Asus ROG Zephyrus GA401QM-K2041T (R9 5900HS/ 32GB RAM/ 1TB SSD/ 14 inch WQHD/ RTX 3060 6GB)",
+  "lowerTen": "laptop asus rog strix g g531gd-al025t core i5-9300h/ gtx 1050 4gb/ win10 (15.6 fhd ips 120hz) - hang chinh hang",
+  "img": {
+    "chinh": "https://nguyencongpc.vn/media/product/20422-rog--zephyrus-g14-ga401qh-hz035t-4.jpg",
+    "phu": [
+      "https://nguyencongpc.vn/media/product/20422-rog--zephyrus-g14-ga401qh-hz035t-8.jpg",
+      "https://nguyencongpc.vn/media/product/20422-rog--zephyrus-g14-ga401qh-hz035t-7.jpg",
+      "https://nguyencongpc.vn/media/product/20422-rog--zephyrus-g14-ga401qh-hz035t-5.jpg"
+    ]
+  },
+  "gia": 24000000,
+  "noiSanXuat": "Đài Loan",
+  "moTa": "",
+  "moTaNganGon": [
+    "Chip: Intel Core i5-9300H (2.4GHz upto 4.1GHz, 4Cores, 8Threads, 8MB cache, FSB 8GT/s)",
+    "RAM: 8GB DDR4 2666MHz, 2 slot Ram, Max 32GB",
+    "Chipset đồ họa: NVIDIA GeForce GTX 1050 4GB GDDR5 + Intel UHD Graphics 630",
+    "Màn hình: 15.6-inch FHD (1920x1080) IPS, 120Hz, Non-Glare, 100% sRGB, Wide View, Narrow Bezel"
+  ],
+  "soSao": 5,
+  "giaTriGiamGia": 20,
+  "giaCuoiCung": 19200000,
+  "soLuong": 100,
+  "soLuongDaBan": 5,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 10,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1634835600000"
+    }
+  },
+  "idBrand": "5ea48280b9f24236c8feab00",
+  "idShop": "SHOP-ADDFFS",
+  "idCategory": [
+    "5e98553923f9944a9c8a5dbf",
+    "5ed7eb5769beb1888c0bb3c9"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea48309db15f5105c18da3f"
+  },
+  "idShow": "PRODU-POIJDM",
+  "ten": "Điện Thoại Samsung Galaxy S20 Plus",
+  "lowerTen": "dien thoai samsung galaxy s20 plus - hang chinh hang - da kich hoat bao hanh dien tu",
+  "img": {
+    "chinh": "https://salt.tikicdn.com/cache/w1200/ts/product/ab/18/e1/de59a5bd4d512de45979147c063eda7b.jpg",
+    "phu": [
+      "https://salt.tikicdn.com/cache/w1200/ts/product/5d/7f/db/e9f28083e15f4858ae8053796e5575f9.jpg",
+      "https://salt.tikicdn.com/cache/w1200/ts/product/4d/b7/51/1ff063c68f8ca2c28152bf66946baeb8.jpg",
+      "https://salt.tikicdn.com/cache/w1200/ts/product/7c/11/f7/e7cc9b8673de6049f01068b274f398d5.jpg"
+    ]
+  },
+  "gia": 23990000,
+  "noiSanXuat": "Việt Nam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Công nghệ màn hình: Quad HD+ HDR10+, 120Hz",
+    "Màn hình rộng: 6.7 inch",
+    "Độ phân giải: 1440 x 3200 pixel",
+    "Hệ điều hành: Android 10.0; One UI 2",
+    "CPU: Chip Exynos 990",
+    "Camera sau: 12MP + 12MP + 64MP",
+    "Camera trước: 10MP",
+    "RAM: 8GB",
+    "Bộ nhớ trong: 128GB",
+    "Hỗ trợ thẻ nhớ: Khe thẻ nhớ mở rộng tới 1TB"
+  ],
+  "soSao": 4,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 23990000,
+  "soLuong": 200,
+  "soLuongDaBan": 0,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635526800000"
+    }
+  },
+  "idBrand": "5ea48589b9f24236c8feab01",
+  "idShop": "SHOP-ADDFFS",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea48700db15f5105c18da40"
+  },
+  "idShow": "PRODU-MNDHSJ",
+  "ten": "Điện Thoại iPhone XS Max 64GB",
+  "lowerTen": "dien thoai iphone xs 64gb - nhap khau chinh hang",
+  "img": {
+    "chinh": "https://salt.tikicdn.com/cache/w1200/ts/product/4d/42/b9/63bc496eae758b107b36c07fed4655aa.jpg",
+    "phu": [
+      "https://salt.tikicdn.com/cache/w1200/ts/product/01/ef/3d/5f5b31b101dc3eeea8a6aa81428cf6ef.jpg",
+      "https://salt.tikicdn.com/cache/w1200/ts/product/10/5e/39/e1a5ad1e75d2e33882b014e67b5b70c2.jpg",
+      "https://salt.tikicdn.com/cache/w1200/ts/product/17/b4/0d/ebe97d90dec3d64b6a70f71dc3229d99.jpg"
+    ]
+  },
+  "gia": 26990000,
+  "noiSanXuat": "Trung Quốc",
+  "moTa": "",
+  "moTaNganGon": [
+    "Nguyên seal, Mới 100%, Đã Active",
+    "Thiết kế: Nguyên khối",
+    "Màn hình OLED: 6.5 inch Super Retina (2688 x 1242), 458ppi, 3D Touch, TrueTone Dolby Vision HDR 10",
+    "Camera Trước/Sau: 7MP/ 2 camera 12MP",
+    "CPU: A12 Bionic 64-bit 7nm",
+    "Bộ Nhớ: 64GB",
+    "RAM: 4GB",
+    "SIM: 1 Nano SIM, 1 ESIM"
+  ],
+  "soSao": 5,
+  "giaTriGiamGia": 15,
+  "giaCuoiCung": 22941500,
+  "soLuong": 200,
+  "soLuongDaBan": 3,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": "false",
+    "loaiBaoHanh": "",
+    "thoiGianBaoHanh": "",
+    "donViBaoHanh": ""
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635008400000"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idShop": "SHOP-ADDFFS",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970091"
+  },
+  "idShow": "PRODU-B3A836",
+  "ten": "Quần Short Ford Essentials SS20 (Sage) [Mirror Quality]",
+  "lowerTen": "quan short ford nu ghp-garment ghp0001",
+  "img": {
+    "chinh": "https://cf.shopee.vn/file/8ed115ad46a606e834e01754a5ff681f",
+    "phu": [
+      "https://product.hstatic.net/200000068224/product/z2410818509102_021f3fe4db91b676215af49e8cb15aa7_bc87d0c14a9b44638ebd9cd69a91185f_master.jpg",
+      "https://product.hstatic.net/200000068224/product/z2928550753392_ee7c977b869bbaafaa34a01730655905_668d7cfb1f954284b775eb2d6bca223f_master.jpg",
+      "https://product.hstatic.net/200000068224/product/z2410818522097_873057f2aeaf116ef7958c2097159298_1187aea02dde43269d9564f089b35b3e_master.jpg"
+    ]
+  },
+  "gia": 150000,
+  "noiSanXuat": "Việt Nam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Quần short ford chất liệu cotton cao cấp",
+    "Kiểu dáng trẻ trung và hiện đại",
+    "Thiết kế form suông rộng cá tính và quần lưng thun thoải mái"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 10,
+  "giaCuoiCung": 135000,
+  "soLuong": 300,
+  "soLuongDaBan": 20,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 10,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635440400000"
+    }
+  },
+  "idBrand": "5ea29b712411d14cf89af06e",
+  "idCategory": [
+    "5e981fe023f9944a9c8a5dbc",
+    "5ea14e19a77f3c29c4124647"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8e09e1124567df8fc8322"
+  },
+  "idShow": "PRODU-FA0B90",
+  "ten": "Tay Cầm Microsoft Xbox One S",
+  "lowerTen": "tay cam microsoft xbox one s (mau trang) - hang nhap khau",
+  "img": {
+    "chinh": "https://hanoicomputercdn.com/media/product/36411_tay_game_khong_day_xbox_one_white_0003_1.jpg",
+    "phu": [
+      "https://linhkienstore.vn/plugins/responsive_filemanager/source/Xbox%20one%20S%20Grey%20Green/tay-cam-choi-game-Xbox-one-S-Grey-Green%20(5).jpg"
+    ]
+  },
+  "gia": 1430000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Không dây",
+    "Dành cho máy tính và Xbox 360",
+    "Phản hồi Rung",
+    "Tiện dụng"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 1430000,
+  "soLuong": 100,
+  "soLuongDaBan": 4,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 1,
+    "thoiGianBaoHanh": 10,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1634977681212"
+    }
+  },
+  "idBrand": "5ec8df4f1124567df8fc8321",
+  "idCategory": [
+    "5e98553923f9944a9c8a5dbf",
+    "5ed7eb6169beb1888c0bb3ca",
+    "608ce4f3cda8b6477899f9b3"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5ebcf703cacdde1d8caeb469",
+    "618a3978c08c4f4694e764af",
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8e27c1124567df8fc8324"
+  },
+  "idShow": "PRODU-200042",
+  "ten": "Đĩa Game PS4 PlayerUnknown s Battlegrounds PUBG",
+  "lowerTen": "dia game final fantasy vii remake - hang chinh hang",
+  "img": {
+    "chinh": "https://img.sosanhgia.com/images/500x0/b745e91b190044cb92704a894dd4695c/dia-game-ps4-pubg.jpeg",
+    "phu": [
+      "https://muagame.vn/cdn1/images/201812/goods_img/dia-game-ps4-playerunknown39s-battlegrounds-he-us-P1148-1544040066410.PNG",
+      "https://muagame.vn/cdn1/images/201812/goods_img/dia-game-ps4-playerunknown39s-battlegrounds-he-us-P1148-1544040066578.PNG"
+    ]
+  },
+  "gia": 1890000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Thể loại:RPG",
+    "Hệ máy:PS4",
+    "ESRB:Teen",
+    "Ngày phát hành:10/11/2021"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 1890000,
+  "soLuong": 100,
+  "soLuongDaBan": 0,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": false,
+    "loaiBaoHanh": "",
+    "thoiGianBaoHanh": "",
+    "donViBaoHanh": ""
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1637656737771"
+    }
+  },
+  "idBrand": "5ec8e1a51124567df8fc8323",
+  "idCategory": [
+    "608ce65bcda8b6477899f9b5"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8e50f1124567df8fc8326"
+  },
+  "idShow": "PRODU-06EE23",
+  "ten": "Bàn Phím Có Dây Dell KB216 - Đen - Hàng Chính Hãng",
+  "lowerTen": "ban phim co day dell kb216 - den - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbanphim.PNG?alt=media&token=af1274fc-57f4-4b37-891c-8e7b4a5512ec",
+    "phu": []
+  },
+  "gia": 250000,
+  "noiSanXuat": "Australia",
+  "moTa": "",
+  "moTaNganGon": [
+    "Cổng giao tiếp USB",
+    "Màu đen bóng",
+    "Có đường thoát nước lớn hơn giúp việc thoát nước dễ dàng nhanh chóng, không đọng nước trên bàn phím",
+    "Dây 2m",
+    "Có 6 miếng đệm cao su phía dưới bán phím để tránh trượt trong quá trình sử dụng",
+    "Các phím được bố trí theo công nghệ Zero Degree Titl không gây tiếng ồn khi sử dụng"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 250000,
+  "soLuong": 100,
+  "soLuongDaBan": 1,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 2,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1637657087874"
+    }
+  },
+  "idBrand": "5ec8e35e1124567df8fc8325",
+  "idCategory": [
+    "5e98553923f9944a9c8a5dbf",
+    "5ed7eb6169beb1888c0bb3ca"
+  ],
+  "idUser": [],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8e6091124567df8fc8327"
+  },
+  "idShow": "PRODU-AADEA3",
+  "ten": "Đồng hồ Apple Watch Series 5 GPS Only, Aluminum - Sport Band - Hàng nhập khẩu",
+  "lowerTen": "dong ho apple watch series 5 gps only, aluminum - sport band - hang nhap khau",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fapplewatch.PNG?alt=media&token=8b29a250-c357-411b-a5a4-c7d90452e987",
+    "phu": []
+  },
+  "gia": 19900000,
+  "noiSanXuat": "United States",
+  "moTa": "",
+  "moTaNganGon": [
+    "Apple Watch Series 5 model 2019",
+    "Màn hình rộng, tốc độ 2X, 16GB",
+    "Luôn hiển thị giờ kể cả không nhấc cổ tay",
+    "Phiên bản GPS",
+    "Hiển thị notification, theo dõi sức khoẻ",
+    "Chống nước 50m",
+    "Đo nhịp tim chính xác thông qua điện tâm đồ (ECG)",
+    "Đo nhịp tim chính xác thông qua điện tâm đồ (ECG)"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 19900000,
+  "soLuong": 100,
+  "soLuongDaBan": 0,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 2,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1637657746114"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8daa53d8f9e78b0a868ff"
+  ],
+  "idUser": [],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8e8991124567df8fc8329"
+  },
+  "idShow": "PRODU-F47550",
+  "ten": "Loa Bluetooth DOSS Soundbox Touch - Hàng Chính Hãng",
+  "lowerTen": "loa bluetooth doss soundbox touch - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Floachinh.PNG?alt=media&token=44ff14e0-71b3-4a5e-8014-ac7880773dff",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Floaphu3.PNG?alt=media&token=5689774a-94d2-436b-82db-ad829380b01c",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Floaphu2.PNG?alt=media&token=2c618db2-701a-4cf2-bb03-cf352ac98232",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Floaphu1.PNG?alt=media&token=e7ecf090-2208-4141-ae40-af869a1b3c16"
+    ]
+  },
+  "gia": 1150000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Bluetooth : 4.0+EDR",
+    "Công suất : 2 x 6W",
+    "Cảm ứng tiện dụng",
+    "Chuẩn chống nước IPX4",
+    "Pin: Li-on 3.7V, 2200mAh",
+    "Thời gian chơi nhạc (Âm lượng 50%) : 12h",
+    "Thời gian sạc : ~3h",
+    "Phạm vi hoạt động : 10m (33ft)",
+    "Phạm vi hoạt động : 10m (33ft)"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 0,
+  "giaCuoiCung": 1150000,
+  "soLuong": 100,
+  "soLuongDaBan": 0,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1637657996351"
+    }
+  },
+  "idBrand": "5ec8e64d1124567df8fc8328",
+  "idCategory": [
+    "5e98553923f9944a9c8a5dbf",
+    "5ed7eb6169beb1888c0bb3ca",
+    "608ce4f3cda8b6477899f9b3"
+  ],
+  "idUser": [],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec8ffd946938440142eef38"
+  },
+  "idShow": "PRODU-6202B8",
+  "ten": "Nồi Chiên Không Dầu Lock&Lock EJF351BLK (5.2L) (Đen) - Hàng chính hãng",
+  "lowerTen": "noi chien khong dau lock&lock ejf351blk (5.2l) (den) - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienchinh.PNG?alt=media&token=6f67629d-3296-4582-9d37-bd69e6e5b87a",
+    "phu": []
+  },
+  "gia": 4700000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Công suất: 1800W",
+    "Dung tích: 5.2L",
+    "Chiên không dùng dầu, không khói",
+    "Bộ hẹn giờ 30 phút",
+    "Tự ngắt điện khi hoàn tất",
+    "Sản phẩm này dùng điện tử",
+    "Sản phẩm này dùng điện tử"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 40,
+  "giaCuoiCung": 2820000,
+  "soLuong": 100,
+  "soLuongDaBan": 0,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1634985798459"
+    }
+  },
+  "idBrand": "5ea47f3db9f24236c8feaaff",
+  "idCategory": [
+    "5e9854d923f9944a9c8a5dbe",
+    "5ec8dac43d8f9e78b0a86900"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821"
+  ],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ec90515e7bd512978e05da0"
+  },
+  "idShow": "PRODU-5751AE",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "lowerTen": "may xay thit philips hr1393 (0.7l) - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitphu1.PNG?alt=media&token=4dd2fbbf-6ef7-4beb-a767-cdc29b3a705e",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitphu3.PNG?alt=media&token=1cef7b87-ce94-4322-a8b4-fb28ee13358c",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitphu2.PNG?alt=media&token=c99b3760-0c4c-404e-9ee6-f2be465b4ee2"
+    ]
+  },
+  "gia": 899000,
+  "noiSanXuat": "Germany",
+  "moTa": "",
+  "moTaNganGon": [
+    "Loại máy xay: Máy xay thịt",
+    "Công suất: 450W",
+    "Chức năng chính: Xay hạt, Xay thịt",
+    "Cối xay: 1 cối, Cốc xay 0.7L",
+    "Chất liệu cối xay: Nhựa",
+    "Chất liệu lưỡi dao: Thép không rỉ",
+    "Chất liệu lưỡi dao: Thép không rỉ"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 20,
+  "giaCuoiCung": 719200,
+  "soLuong": 100,
+  "soLuongDaBan": 9,
+  "luotXem": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": false,
+    "loaiBaoHanh": "",
+    "thoiGianBaoHanh": "",
+    "donViBaoHanh": ""
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1634987156595"
+    }
+  },
+  "idBrand": "5ec90405e7bd512978e05d9f",
+  "idCategory": [
+    "5e9854d923f9944a9c8a5dbe",
+    "5ec8dac43d8f9e78b0a86900"
+  ],
+  "idUser": [
+    "608a6cd8db2a8d456c4b6e8d"
+  ],
+  "idShop": "SHOP-D156AB",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed78459db80af5a4c2ebb37"
+  },
+  "idShow": "PRODU-19F772",
+  "ten": "Loa Bluetooth LG XBOOM Go PK3 16W - Hàng Chính Hãng",
+  "lowerTen": "loa bluetooth lg xboom go pk3 16w - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhchinhloalg.PNG?alt=media&token=dc4da7c7-3f55-43cb-b367-4dda47a1d023",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhphuloalg1.PNG?alt=media&token=569fa0f8-f0d8-4b43-a6d2-95044221b8dc",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhphuloalg3.PNG?alt=media&token=3f11b34f-deae-4a41-b323-76335766b168",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhphuloalg2.PNG?alt=media&token=595e6503-eb59-4ed3-93d0-88b821a31586"
+    ]
+  },
+  "gia": 900000,
+  "noiSanXuat": "Korea South",
+  "moTa": "",
+  "moTaNganGon": [
+    "Dung lượng pin: 5200mAh",
+    "Công suất: 16W",
+    "Công nghệ MERIDIAN",
+    "Hệ thống bass cộng hưởng",
+    "Điều khiển bằng giọng nói",
+    "Chỉ số chống nước, IPX7",
+    "Kết nối: Bluetooth"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 38,
+  "giaCuoiCung": 558000,
+  "soLuong": 200,
+  "soLuongDaBan": 2,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 2,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635937243616"
+    }
+  },
+  "idBrand": "5ed78318db80af5a4c2ebb36",
+  "idCategory": [
+    "5e98553923f9944a9c8a5dbf",
+    "5ed7eb6169beb1888c0bb3ca",
+    "608ce4f3cda8b6477899f9b3"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5ed37e34027d005bd00e9f14"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed7e8ce653c7f86505e3103"
+  },
+  "idShow": "PRODU-7885F5",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "lowerTen": "noi chien khong dau magic a-801 (6.0 lit) - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhphu3.PNG?alt=media&token=b9865e7e-1f9c-417b-9e36-d979a2060fb0",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhphu1.PNG?alt=media&token=89599f71-8416-4e13-8398-349933cebb0c",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhphu2.PNG?alt=media&token=9e9b9ab8-e148-4176-84d5-4714cbdc8519"
+    ]
+  },
+  "gia": 2590000,
+  "noiSanXuat": "Angola",
+  "moTa": "",
+  "moTaNganGon": [
+    "Sản phẩm chiên nướng được mọi người tin dùng",
+    "Làm chín thực phẩm không cần đến dầu - mỡ rất an toàn cho cơ thể",
+    "Tiết kiệm thời gian và vệ sinh an toàn"
+  ],
+  "soSao": "4.1",
+  "giaTriGiamGia": 48,
+  "giaCuoiCung": 1346800,
+  "soLuong": 100,
+  "soLuongDaBan": 17,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635962884267"
+    }
+  },
+  "idBrand": "5ed7e765653c7f86505e3102",
+  "idCategory": [
+    "5e9854d923f9944a9c8a5dbe",
+    "5ec8dac43d8f9e78b0a86900"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5eddb2c8392cad4a88bc2e74",
+    "5ebcf703cacdde1d8caeb469",
+    "6085442aea965433586f1afd",
+    "608a6cd8db2a8d456c4b6e8d",
+    "5e9ab673699ae60b147a2821"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed7edb869beb1888c0bb3ce"
+  },
+  "idShow": "PRODU-2A7BED",
+  "ten": "Điện Thoại iPhone 11 Pro Max 64GB - Hàng Chính Hãng",
+  "lowerTen": "dien thoai iphone 11 pro max 64gb - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone11chinh.PNG?alt=media&token=fa4c50ea-b5f9-4df1-9309-093b95809ac0",
+    "phu": []
+  },
+  "gia": 33990000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Chính hãng, Nguyên seal, Mới 100%, Chưa active",
+    "Mã part: VN/A",
+    "Thiết kế: Nguyên khối",
+    "Màn hình: OLED (Super Retina XDR), 6.5 inch, 2688 x 1242 pixels",
+    " CPU: Apple A13 Bionic (7 nm+) Bộ Nhớ: 64 GB RAM: 4GB SIM: 1 Nano SIM + 1 esim Tính năng: Chống nước, chống bụi, Face ID, Sạc pin nhanh",
+    "CPU: Apple A13 Bionic (7 nm+)",
+    "Bộ Nhớ: 64 GB",
+    "RAM: 4GB",
+    "SIM: 1 Nano SIM + 1 esim",
+    "Tính năng: Chống nước, chống bụi, Face ID, Sạc pin nhanh"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 15,
+  "giaCuoiCung": 28891500,
+  "soLuong": 10,
+  "soLuongDaBan": 4,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1636828217756"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5ebcf703cacdde1d8caeb469",
+    "6085442aea965433586f1afd",
+    "618a3978c08c4f4694e764af"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed7f02169beb1888c0bb3d2"
+  },
+  "idShow": "PRODU-E9416F",
+  "ten": "Điện Thoại iPhone 11 64GB - Hàng Chính Hãng",
+  "lowerTen": "dien thoai iphone 11 64gb - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone112chinh.PNG?alt=media&token=d0e64b52-363d-438e-880e-89d3eb9c41ca",
+    "phu": []
+  },
+  "gia": 21990000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "",
+  "moTaNganGon": [
+    "Nguyên seal, Mới 100%, Chưa Active",
+    "Công nghệ màn hình: IPS LCD",
+    "Độ phân giải: 828 x 1792 pixels",
+    "Màn hình rộng: 6.1 inches",
+    "Camera sau: 12 MP + 12 MP",
+    "Quay phim: 2160p@24/30/60fps, 1080p@30/60/120/240fps, HDR, stereo sound rec.",
+    "Camera trước: 12 MP, f/2.2",
+    "Hệ điều hành: iOS 13",
+    "Chipset (CPU): Apple A13 Bionic 6 nhân",
+    "RAM: 4 GB",
+    "Bộ nhớ trong: 64GB",
+    "Dung lượng pin: 3110 mAh",
+    "SIM: 1 Nano SIM , 1 esim",
+    "Mã Part: VN/A"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 9,
+  "giaCuoiCung": 20010900,
+  "soLuong": 10,
+  "soLuongDaBan": 4,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635964844500"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "608a6cd8db2a8d456c4b6e8d"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed7f2ea69beb1888c0bb3d7"
+  },
+  "idShow": "PRODU-BFCB8E",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "lowerTen": "dien thoai samsung galaxy a51 (128gb/6gb) - hang chinh hang - da kich hoat bao hanh dien tu",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungphu2.PNG?alt=media&token=d1ee6596-ba8f-477b-9b2f-95798c168ab2",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungphu3.PNG?alt=media&token=403cb84a-196c-4e7d-b733-2a23db993080",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungphu1.PNG?alt=media&token=3970980d-c8ac-4a13-86f1-b7ce25e722e0",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=caa0b17c-495f-4aea-8821-113a5d830877"
+    ]
+  },
+  "gia": 6000000,
+  "noiSanXuat": "India",
+  "moTa": "",
+  "moTaNganGon": [
+    "Chính hãng, Nguyên seal, Mới 100%",
+    "Đã kích hoạt bảo hành điện tử",
+    "Màn hình: Super AMOLED, 6.5\", Full HD+",
+    "Hệ điều hành: Android 10",
+    "Camera sau: Chính 48 MP & Phụ 12 MP, 5 MP, 5 MP",
+    "Camera trước: 32 MP",
+    "CPU: Exynos 9611 8 nhân",
+    "RAM: 6 GB",
+    "Bộ nhớ trong: 128 GB",
+    "Thẻ nhớ: MicroSD, hỗ trợ tối đa 512 GB",
+    "Thẻ SIM: 2 Nano SIM, Hỗ trợ 4G",
+    "Dung lượng pin: 4000 mAh, có sạc nhanh",
+    "Bảo mật: Mở khoá vân tay siêu âm, Khuôn mặt",
+    ""
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 25,
+  "giaCuoiCung": 4500000,
+  "soLuong": 20,
+  "soLuongDaBan": 6,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1635965220516"
+    }
+  },
+  "idBrand": "5ea48589b9f24236c8feab01",
+  "idCategory": [
+    "5e9823e723f9944a9c8a5dbd",
+    "5ec8da853d8f9e78b0a868fd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "5e9ab836699ae60b147a2822",
+    "608a6cd8db2a8d456c4b6e8d"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5eece256ffce8524909b244c"
+  },
+  "idShow": "PRODU-639805",
+  "ten": "Máy Lạnh Inverter Lg V10enw (1hp) - Hàng Chính Hãng",
+  "lowerTen": "may lanh inverter lg v10enw (1hp) - hang chinh hang",
+  "img": {
+    "chinh": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhchinh.PNG?alt=media&token=f6770d77-8ed6-4a9d-9be1-306ad72d4dec",
+    "phu": [
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhphu3.PNG?alt=media&token=3c03626a-b7be-4e0a-8c38-d756f0645647",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhphu1.PNG?alt=media&token=e34ac316-63e9-4744-9450-3a7960469dd0",
+      "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhphu2.PNG?alt=media&token=be4e7b90-7154-4a53-afa8-3504836cecdc"
+    ]
+  },
+  "gia": 8590000,
+  "noiSanXuat": "Thailand",
+  "moTa": "<h2><strong>Thiết kế bắt mắt, sang trọng</strong></h2><p><strong>Máy Lạnh Inverter LG V10ENW</strong>&nbsp;với sắc trắng trung tính, kết hợp với dạng chữ nhật mang cảm giác cứng cáp và chắc chắn. Có thiết kế đẹp tinh tế với các đường cong 2 bên hông máy, trang bị miệng hút khí đặc biệt giúp luồng không khí được hút vào nhanh và nhiều hơn.</p><p><br></p><h2><strong>Công suất làm lạnh 1HP</strong></h2><p><br></p><p>Với công suất làm lạnh 1HP, máy lạnh&nbsp;LG V10ENW&nbsp;rất phù hợp với không gian phòng khách, phòng làm việc, phòng ngủ vừa và nhỏ, diện tích từ 15m2 trở xuống,&nbsp;mang lại những luồng không khí mát lạnh cho bạn và cả nhà luôn cảm thấy thoải mái và dễ chịu nhất.</p><p><br></p><h2><strong>Công nghệ inverter tiết kiệm điện</strong></h2><p>Công nghệ Inverter của LG V10ENW&nbsp;giúp máy nén thay đổi tốc độ để duy trì nhiệt độ mong muốn mà không cần bật/tắt liên tục như các máy lạnh thông thường. Nhờ đó giúp tiết kiệm điện đáng kể cho người dùng. Ngoài ra, công nghệ Inverter còn giúp máy nén vận hành ổn định, độ bền lâu.</p><p><br></p><p><br></p><h2><strong>Chế độ làm lạnh nhanh Jet-Cool</strong></h2><p>Chức năng Jet-cool mạnh mẽ với luồng khí lạnh lan toả dài đến 2.5 m giúp làm lạnh với tốc độ tối đa, nhanh hơn các máy lạnh thông thường. Với LG V10ENW&nbsp;bạn chỉ mất 3 phút để căn phòng được làm lạnh toàn diện đem lại sự thoải mái một cách nhanh chóng mà không phải đợi lâu. Đừng nên quá lạm dụng chức năng này vì hoá đơn tiền điện hàng tháng sẽ tăng lên đáng kể.</p><p><br></p><img src=\"https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhmota1.PNG?alt=media&amp;token=52ac62b4-0d30-4099-8391-079ed832916f\" alt=\"undefined\" width=\"100%\"><p><br></p><h2><strong>Chế độ vận hành khi ngủ</strong></h2><p><br></p><p>Với chức năng ngủ ngon vào ban đêm, giúp bạn có một giấc ngủ thật thoải mái. Chế độ ngủ đêm sẽ tự động điều chỉnh, cứ 30 phút lại tăng lên 1 độ C (tối đa tăng 2 độ C) để phù hợp với thân nhiệt giúp bạn không cảm thấy quá lạnh vào ban đêm gây thức giấc, trả lại một giấc ngủ thật sâu, giúp sức khỏe được tốt hơn, chất lượng làm việc vào ngày hôm sau cũng tốt hơn.</p><p><br></p><h2><strong>Hướng gió dễ chịu</strong></h2><p><br></p><p>Bật máy lạnh trong khi ngủ có thể gây những phiền toái, khó chịu, hạ thấp thân nhiệt cơ thể đặc biệt khi luồng gió thổi trực tiếp vào cơ thể. Chế độ hướng gió dễ chịu giúp bạn tránh khỏi những phiền toái này, đem đến cho bạn giấc ngủ thư giãn hơn.</p><p><br></p><img src=\"https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhmota2.PNG?alt=media&amp;token=fb4e8b5e-423e-4d46-b491-acec617387b4\" alt=\"undefined\" width=\"100%\"><p><br></p><h2><strong>Dàn tản nhiệt mạ vàng</strong></h2><p>Lớp phủ đặc biệt màu vàng, bảo vệ bề mặt dàn tản nhiệt, hạn chế quá trình ăn mòn, nâng cao tuổi thọ máy lạnh.&nbsp;Chế độ hướng gió của máy lạnh dễ chịu giúp bạn tránh khỏi luồng gió thổi trực tiếp vào cơ thể, đem đến cho bạn giấc ngủ thư giãn hơn.</p><p><br></p><img src=\"https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhmota3.PNG?alt=media&amp;token=ac7d9d45-d82d-4f0a-81f7-7f1c4880c343\" alt=\"undefined\" width=\"100%\"><p><br></p><h2><strong>Gas R-32 thân thiện với môi trường</strong></h2><p>Máy lạnh sử dụng Gas R-32 thân thiện với môi trường áp suất cao, thân thiện với môi trường, hạn chế tác động tới tầng ozon, tiết kiệm điện năng, tăng cường khả năng làm lạnh sâu.</p><p><br></p><h2><strong>Chức năng tự làm sạch</strong></h2><p>Máy lạnh LG có chức năng tự động hong khô dàn tản nhiệt trong vòng 30 phút bằng quạt của dàn lạnh. Chức năng này giúp ngăn chặn việc hình thành các loại nấm mốc, vi khuẩn và các mùi khó chịu bằng cách loại bỏ đi môi trường ẩm thấp nơi mà các tác nhân gây hại có thể phát triển gây hại đến sức khỏe của bạn và cả gia đình.</p><p><br></p><img src=\"https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhmota4.PNG?alt=media&amp;token=5b37b216-c895-4269-bb8f-9e7779710425\" alt=\"undefined\" width=\"100%\"><p><br></p><p><br></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Tuy nhiên tuỳ vào từng loại sản phẩm hoặc phương thức, địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, ...</p>",
+  "moTaNganGon": [
+    "Công suất: 1HP - 9200Btu",
+    "Loại máy lạnh: 1 Chiều",
+    "Loại Gas: R32",
+    "Công nghệ Inverter",
+    "Công nghệ làm lạnh Jet Cool"
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 21,
+  "giaCuoiCung": 6786100,
+  "soLuong": 797,
+  "soLuongDaBan": 1,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 1,
+    "donViBaoHanh": 1
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1637337273581"
+    }
+  },
+  "idBrand": "5ed78318db80af5a4c2ebb36",
+  "idCategory": [
+    "608ce4f3cda8b6477899f9b3"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "5eddb2c8392cad4a88bc2e74",
+    "5e9ab836699ae60b147a2822"
+  ],
+  "idShop": "SHOP-ADDFFS",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd7cdc76869851585c8ffb"
+  },
+  "idShow": "PRODU-93E619",
+  "ten": "ASUS ROG Phone 5 chính hãng",
+  "lowerTen": "asus rog phone 5 chinh hang",
+  "img": {
+    "chinh": "https://24hstore.vn/upload_images/images/asus-rog-phone-5-cu(1).jpg",
+    "phu": [
+      "https://cellphones.com.vn/media/catalog/product/a/s/asus-rog-phone-5_0002_gsmarena_001.jpg",
+      "https://cdn.tgdd.vn/Products/Images/42/235570/asus-rog-phone-5g-thumb-600x600-600x600.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 22990000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Chinh phạt mọi giới hạn - Snapdragon 888 mạnh mẽ, RAM LPDDR5, bộ nhớ UFS 3.1</p><p>- Hiển thị đẳng cấp - Màn hình AMOLED tần số quét 144Hz, phản hồi 1ms, kính Gorilla Victus</p><p>- Tính năng dành cho game thủ - Cảm ứng đa điểm AirTrigger 5, loa kép chất lượng</p><p>- Chiến game bất tận - Pin khủng 6000mAh, sạc siêu tốc 65W</p><p><br></p>",
+  "moTaNganGon": [
+    "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+    "Củ sạc công suất 65W, Cáp sạc C-to-C, Ốp lưng nhựa, Sách HDSD",
+    "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 4000000,
+  "giaCuoiCung": 18990000,
+  "soLuong": 5,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639807558992"
+    }
+  },
+  "idBrand": "5ea48280b9f24236c8feab00",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd7f7f76869851585c8ffe"
+  },
+  "idShow": "PRODU-A3A858",
+  "ten": "iPhone 11 128GB I Chính hãng VN/A",
+  "lowerTen": "iphone 11 128gb i chinh hang vn/a",
+  "img": {
+    "chinh": "https://www.viendongmobile.com/vnt_upload/product/06_2021/iphone11color.png",
+    "phu": [
+      "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_187_1.jpg",
+      "https://timhangcongnghe.com/uploads/erp/products/product_image/image_url/90184/thumb650_iPhone_11_128GB_White_MWM22VN-A_01.png",
+      "https://cdn.tgdd.vn/Products/Images/42/210644/iphone-11-den-200x200.jpg",
+      "https://cdn.tgdd.vn/Products/Images/42/230408/iphone-11-128gb-hop-moi-292520-102500-600x600.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 19900000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn</p><p>- Hiệu năng mượt mà, ổn định - Chip A13, RAM 4GB</p><p>- Bắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode</p><p>- Yên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla Glass</p>",
+  "moTaNganGon": [
+    "Máy mới 100% , chính hãng Apple Việt Nam. CellphoneS hiện là đại lý bán lẻ uỷ quyền iPhone chính hãng VN/A của Apple Việt Nam",
+    "Thân máy, cáp USB-C to Lightning, sách HDSD",
+    "Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple Việt Nam. 1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 2100000,
+  "giaCuoiCung": 17800000,
+  "soLuong": 10,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639808462537"
+    }
+  },
+  "idBrand": "5ea488d7b9f24236c8feab02",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd819076869851585c9003"
+  },
+  "idShow": "PRODU-01BB2E",
+  "ten": "Samsung Galaxy Z Fold3 5G 512GB",
+  "lowerTen": "samsung galaxy z fold3 5g 512gb",
+  "img": {
+    "chinh": "https://www.viendongmobile.com/vnt_upload/product/08_2022/z_fold3.png",
+    "phu": [
+      "https://clickbuy.com.vn/uploads/2021/10/1-1-1.jpg",
+      "https://dovecomputers.co.ke/wp-content/uploads/2022/09/Galaxy-Fold-3.jpg",
+      "https://dienthoaihay.vn/images/products/2022/01/21/original/samsung-galaxy-z-fold3-5g-den_1642756792.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 44990000,
+  "noiSanXuat": "Korea North",
+  "moTa": "<p>- Thiết kế độc đáo tiện lợi, khẳng định đẳng cấp - Thiết kế gập mở, chất liệu cao cấp, bản lề chắc chắn</p><p>- Màn hình kép ấn tượng - Màn hình chính 7.9\" và màn hình phụ: 6.23\", 120Hz chuyển động mượt mà</p><p>- Hệ thống camera siêu ấn tượng - Bộ 3 ống kính camera 12MP, camera selfie ẩn dưới màn hình</p><p>- Hiệu năng ấn tượng, làm chủ tốc độ - Snapdragon 888 kết hợp RAM 12GB, hỗ trợ 5G</p>",
+  "moTaNganGon": [
+    "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+    "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 2000000,
+  "giaCuoiCung": 42990000,
+  "soLuong": 10,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639808985187"
+    }
+  },
+  "idBrand": "5ea48589b9f24236c8feab01",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5ed37e34027d005bd00e9f14",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd831976869851585c9008"
+  },
+  "idShow": "PRODU-240B63",
+  "ten": "Xiaomi Mi 11 Lite 5G",
+  "lowerTen": "xiaomi mi 11 lite 5g",
+  "img": {
+    "chinh": "https://cdn.thongsokythuat.vn/wp-content/uploads/Dien-thoai-Xiaomi-11-Lite-5G-NE-2021-600x600.png",
+    "phu": [
+      "https://cdn.tgdd.vn/Products/Images/42/249427/xiaomi-11-lite-5g-ne-black-600x600.jpg",
+      "https://www.xtmobile.vn/vnt_upload/product/04_2021/thumbs/600_600_xiaomi_mi_11_lite_5g_xtmobile.jpg",
+      "https://cdn.mobilecity.vn/mobilecity-vn/images/2021/11/w300/xiaomi-mi-11-lite-5g-chinh-hang-vang.jpg.webp"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 10490000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Không gian hiển thị thoải mái, chuyển động mượt - Màn hình tràn viền 6,55 inch, tần số quét 90Hz, HDR10+</p><p>- Hiệu năng mạnh mẽ, ổn định - Chip Snapdragon 780G trên 5nm, 128GB bộ nhớ và 8GB RAM</p><p>- Camera chụp ảnh ấn tượng - Cụm 3 camera sau 64MP, chụp đêm rõ nét</p><p>- Sạc nhanh, trải nghiệm suốt ngày dài - Dung lượng pin 4250 mAh và hỗ trợ sạc nhanh 33W</p>",
+  "moTaNganGon": [
+    "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+    "Sạc 33W, Cáp USB Type C, Cáp Type C to 3.5mm, Ốp Silicon Trong, Que Chọc Sim, Sách HDSD",
+    "Bảo hành 18 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 3000000,
+  "giaCuoiCung": 7490000,
+  "soLuong": 20,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639809621313"
+    }
+  },
+  "idBrand": "61bd824276869851585c9007",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5ed37e34027d005bd00e9f14",
+    "618a3978c08c4f4694e764af",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd848276869851585c900d"
+  },
+  "idShow": "PRODU-7135A6",
+  "ten": "OPPO Reno6 5G",
+  "lowerTen": "oppo reno6 5g",
+  "img": {
+    "chinh": "https://www.eros.ae/media/catalog/product/cache/4d25cc2d7db4bdfe410479ebb1f61f20/o/p/oppo-reno6-5g-8_128gb-01.jpg",
+    "phu": [
+      "https://cdn.hoanghamobile.com/i/preview/Uploads/2021/07/23/image-removebg-preview-2.png",
+      "https://cdn01.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_26033/reno6-5g_main_737_1020.png.webp"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 12990000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Thiết kế ấn tượng, màu sắc cá tính - Thiết kế tràn viền, mỏng nhẹ chỉ 182g</p><p>- Tăng tốc kết nối, dẫn đầu xu hướng - Dimensity 900 5G (6 nm) mạnh mẽ, kết nối 5G siêu nhanh</p><p>- Chuyên gia nhiếp ảnh chân dung - Bộ 3 camera lên tới 64 MP, sắc nét, ấn tượng</p><p>- Màn hình lớn, sắc nét với tốc độ làm mới cao - Màn hình AMOLED 6.43 inch Full HD, 90Hz</p><p>- Dung lượng pin lớn, công nghệ sạc nhanh hiện đại - Viên pin 4300mAh, sạc nhanh 65W</p>",
+  "moTaNganGon": [
+    " Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất",
+    " Máy, Sách HDSD, Cây lấy SIM, Ốp lưng, Cáp Type-C, Củ sạc nhanh rời đâu Type-C, Tai nghe",
+    " Bảo hành 12 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 45 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 3000000,
+  "giaCuoiCung": 9990000,
+  "soLuong": 10,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639809993713"
+    }
+  },
+  "idBrand": "61bd83c076869851585c900c",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5e9ab673699ae60b147a2821",
+    "618a3978c08c4f4694e764af",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd85e376869851585c9011"
+  },
+  "idShow": "PRODU-C2C643",
+  "ten": "Vivo X60 Pro",
+  "lowerTen": "vivo x60 pro",
+  "img": {
+    "chinh": "https://cdn.tgdd.vn/Products/Images/42/231602/vivo-x60-pro-thumb-black-600x600.jpg",
+    "phu": [
+      "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1617245638502/3bc04778af2a78dd833f1c6d46e62289.png"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 19900000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Đỉnh cao nhiếp ảnh - Camera chống rung Gimbal, ống kính ZEISS, siêu chụp đêm 2.0</p><p>- Nền tảng mạnh mẽ và cao cấp - Snapdragon 870, RAM 12GB + 3GB, bộ nhớ UFS 3.1</p><p>- Hình ảnh sắc nét, thao tác mượt mà - Tốc độ làm tươi 120Hz, tốc độ phản hồi 240Hz</p><p>- Mạng siêu tốc, độ trễ thấp - Mạng 5G thế hệ mới</p>",
+  "moTaNganGon": [
+    "Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất",
+    "Bảo hành chính hãng 12 tháng, 1 ĐỔI 1 trong 30 ngày đầu."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 6000000,
+  "giaCuoiCung": 13900000,
+  "soLuong": 20,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639810271135"
+    }
+  },
+  "idBrand": "61bd84c976869851585c9010",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd873476869851585c9015"
+  },
+  "idShow": "PRODU-8C3413",
+  "ten": "Oneplus Nord CE",
+  "lowerTen": "oneplus nord ce",
+  "img": {
+    "chinh": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-5g-2.jpg",
+    "phu": [
+      "https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Blue.png",
+      "https://www.sathya.store/img/product/R1v80poSEDS1BBjM.png"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 8900000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Tự tin chiến mọi tựa game - Chip Snapdragon 750G, 8GB RAM, hỗ trợ 5G mượt mà</p><p>- Không gian hiển thị thoải mái, chuyển động mượt - Màn hình 6.43 inch Full HD+, 90 Hz</p><p>- Camera chụp ảnh ấn tượng - Bộ 3 camera sau 64 MP, cảm biến AI hiện đại, hỗ trợ HDR</p><p>- Sử dụng suốt dài ngày - Dung lượng pin 4500mAh, sạc nhanh Warp Charge 30T Plus</p>",
+  "moTaNganGon": [
+    "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+    "Máy OnePlus Nord CE Cáp USB Type C (Hỗ trợ sạc nhanh) Củ Sạc Warp 30T Dụng cụ lấy SIM Miếng dán màn hình (đã dán sẵn) Vỏ bảo vệ Thông tin an toàn và thẻ bảo hành Sách hướng dẫn",
+    "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX. "
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 1000000,
+  "giaCuoiCung": 7900000,
+  "soLuong": 20,
+  "soLuongDaBan": 3,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639810692433"
+    }
+  },
+  "idBrand": "61bd866f76869851585c9014",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "618a3978c08c4f4694e764af",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd884a76869851585c9019"
+  },
+  "idShow": "PRODU-9F290E",
+  "ten": "Nubia Red Magic 6",
+  "lowerTen": "nubia red magic 6",
+  "img": {
+    "chinh": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/red-magic-6-2.jpg",
+    "phu": [
+      "https://cdn.tgdd.vn/Products/Images/42/240210/zte-nubia-red-magic-6r-1-600x600.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 17900000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Hiển thị chân thực, sống động - Màn hình tràn viền 6,8 inch, 165Hz, tích hợp công nghệ bảo vệ mắt</p><p>- Hiệu suất chơi game chuyên nghiệp - chip Snapdragon 888 mạnh mẽ, card đồ họa Adreno ™ 660, đi kèm RAM 12GB</p><p>- Chiến game không lo cạn pin - viên pin 5050 mAh, sạc nhanh 30W, hỗ trợ sạc tối đa 65W</p><p>- Kết nối không dây vượt trội - Hỗ trợ wifi 6 và mạng 5G</p><p>- Chụp ảnh chuyên nghiệp, quay video 4K - cụm ba camera sau 64MP + 8MP + 2MP</p>",
+  "moTaNganGon": [
+    "Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất",
+    "Cáp sạc USB-C, sạc PPS USB-C hỗ trợ tối đa 30W, ốp lưng sillicone, cây chọc SIM và sách HDSD.",
+    "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 1000000,
+  "giaCuoiCung": 16900000,
+  "soLuong": 10,
+  "soLuongDaBan": 0,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639810981208"
+    }
+  },
+  "idBrand": "61bd879976869851585c9018",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd88e076869851585c901b"
+  },
+  "idShow": "PRODU-8121AE",
+  "ten": "Nubia Red Magic 6 Pro",
+  "lowerTen": "nubia red magic 6 pro",
+  "img": {
+    "chinh": "https://cdn.tgdd.vn/Products/Images/42/235984/zte-nubia-red-magic-6-pro-600x600-600x600.jpg",
+    "phu": [
+      "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/_/s_4_1.png"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 19900000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Hiển thị chân thực, sống động - Màn hình tràn viền 6,8 inch, 165Hz, tích hợp công nghệ bảo vệ mắt</p><p>- Hiệu suất chơi game chuyên nghiệp - Chip Snapdragon 888 mạnh mẽ, card đồ họa Adreno ™ 660, đi kèm RAM 16GB</p><p>- Chiến game không lo cạn pin - Viên pin 5050 mAh, sạc nhanh 30W, hỗ trợ sạc lên tới 66W</p><p>- Kết nối không dây vượt trội - Hỗ trợ wifi 6 và mạng 5G</p><p>- Chụp ảnh chuyên nghiệp, quay video 4K - Cụm ba camera sau 64MP + 8MP + 2MP</p>",
+  "moTaNganGon": [
+    "Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất",
+    "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 2000000,
+  "giaCuoiCung": 17900000,
+  "soLuong": 10,
+  "soLuongDaBan": 1,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 12,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639811148113"
+    }
+  },
+  "idBrand": "61bd879976869851585c9018",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "618a3978c08c4f4694e764af",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd8a0776869851585c901e"
+  },
+  "idShow": "PRODU-F2AD21",
+  "ten": "Vsmart Live 4",
+  "lowerTen": "vsmart live 4",
+  "img": {
+    "chinh": "https://cdn.tgdd.vn/Products/Images/42/227529/vsmart-live-4-trang-200x200.jpg",
+    "phu": [
+      "https://cdn.tgdd.vn/Products/Images/42/227529/vsmart-live-4-trang-200x200.jpg"
+    ],
+    "moTaChiTiet": null
+  },
+  "gia": 4290000,
+  "noiSanXuat": "Vietnam",
+  "moTa": "<p>- Cấu hình đỉnh cao, giải trí hết mình - Snapdragon 678 8 nhân hiệu năng mạnh mẽ</p><p>- Pin khủng siêu trâu - Dung lượng pin 5000mAh, sạc nhanh Quick Charge 18W</p><p>- Lưu lại khoảnh khắc đêm huyền ảo - Bộ tứ camera AI ấn tượng</p><p>- Giao diện tối ưu cho người dùng Việt - VOS 3.0 nhiều tính năng thông minh, bảo mật công nghệ tiên tiến</p>",
+  "moTaNganGon": [
+    "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+    "Hộp, Sạc, Tai nghe, Sách hướng dẫn, Cáp, Cây lấy sim",
+    "Bảo hành chính hãng 18 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX. Gia hạn bảo hành thời gian giãn cách."
+  ],
+  "soSao": 0,
+  "giaTriGiamGia": 300000,
+  "giaCuoiCung": 3990000,
+  "soLuong": 30,
+  "soLuongDaBan": 21,
+  "thongTinBaoHanh": {
+    "baoHanh": true,
+    "loaiBaoHanh": 0,
+    "thoiGianBaoHanh": 18,
+    "donViBaoHanh": 0
+  },
+  "ngayTao": {
+    "$date": {
+      "$numberLong": "1639811418873"
+    }
+  },
+  "idBrand": "61bd894e76869851585c901d",
+  "idCategory": [
+    "5ec8da853d8f9e78b0a868fd",
+    "5e9823e723f9944a9c8a5dbd"
+  ],
+  "idUser": [
+    "5ed37e34027d005bd00e9f14",
+    "618a3978c08c4f4694e764af",
+    "61bfa7694f99e11894abeaa8",
+    "6395758648faae4318226208"
+  ],
+  "idShop": "SHOP-5F1B7A",
+  "idEvent": "",
+  "isAccept": true,
+  "isLock": false,
+  "isDelete": false
+}]
