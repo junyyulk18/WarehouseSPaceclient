@@ -284,7 +284,7 @@ function Header() {
                                 {
                                     isAdminReducer === false && (
                                         <Nav.Link href="/checkout/cart" style={{ marginRight: 10 }}>
-                                            <Badge count={cookies.token === undefined ? 0 : countProductInCart} style={{ paddingTop: countProductInCart > 99 ? 0 : 6 }}>
+                                            <Badge count={cookies.token === undefined ? 0 : countProductInCart} style={{ paddingTop:  countProductInCart > 99 ? 0 : 1 }}>
                                                 <i className="fa fa-shopping-cart" style={{ fontSize: 25, color: '#fff'}}></i>
                                                 <span style={{ color: '#fff' }}> Giỏ Hàng</span>
                                             </Badge>
