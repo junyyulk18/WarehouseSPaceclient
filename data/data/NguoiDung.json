@@ -248,7 +248,7 @@
   "gioiTinh": 1,
   "taiKhoan": {
     "tenTaiKhoan": "ungngocsonkt@gmail.com",
-    "matKhau": "$2b$10$ArGbiYndSSu5lb9J5.6uIeDQtqukFAcs/iJYxZ2gWVTKhSXHi8kz6"
+    "matKhau": "$2a$12$keQQJgSu3.XlhrVTdYvXj.MX8lmrTM7adXQr9DVhJYsBhE.ZrLobG"
   },
   "thongTinShop": {
     "idShop": "SHOP-5F1B7A",
@@ -282,8 +282,8 @@
   "_id": {
     "$oid": "61bfa7694f99e11894abeaa8"
   },
-  "ten": "Trần Đại Hiệp",
-  "lowerTen": "tran dai hiep",
+  "ten": "Sầm Thị Hoàng Kim",
+  "lowerTen": "sam thi hoang kim",
   "email": "congnghemoitest1@gmail.com",
   "sdt": "0352168954",
   "cmnd": "5646487986",
@@ -291,7 +291,7 @@
   "gioiTinh": 0,
   "taiKhoan": {
     "tenTaiKhoan": "congnghemoitest1@gmail.com",
-    "matKhau": "$2b$10$DrKkNOXLsy7MOBY3V3TUxOUqnGEWOCOp2DoqMUepNQ/BvBMSy6VqG"
+    "matKhau": "$2a$12$2RIiJMpqp.n4nhVf1ZwlkeAmz5i/gGlFs1hPZlhjtKSU2bObA3VBy"
   },
   "thongTinShop": {
     "ten": "",
@@ -331,10 +331,10 @@
   },
   "thongTinShop": {
     "idShop": "SHOP-DD03CB",
-    "ten": "Juny Yulk",
-    "lowerTen": "juny yulk",
+    "ten": "Thế Giới Alo",
+    "lowerTen": "the gioi alo",
     "diaChi": "123 Minh Phụng",
-    "logoShop": "",
+    "logoShop": "http://www.thegioialo.com.vn/vnt_upload/news/06_2015/logo_thegioialo_2_1.jpg",
     "keyPaypal": "",
     "viShop": "",
     "ngayTao": {
@@ -345,8 +345,8 @@
     "moTa": "Bán quần áo",
     "img": {
       "carousel": [],
-      "banner1": "",
-      "banner2": ""
+      "banner1": "https://www.thegioialo.com.vn/vnt_upload/about/img_about.jpg",
+      "banner2": "https://www.thegioialo.com.vn/vnt_upload/about/img_about.jpg"
     },
     "isLock": false
   },
