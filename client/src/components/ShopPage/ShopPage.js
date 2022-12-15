@@ -152,7 +152,7 @@ export default function ShopPage(props) {
                                 {
                                     dataProduct.map((item, i) => {
                                         if (item.giaTriGiamGia === 0) {
-                                            return <div key={item._id} className="col-sm-3 item" style={{ backgroundColor: "white", height: 350, marginTop: 20, width: '95%' }}>
+                                            return <div key={item._id} className="col-sm-5 item" style={{ backgroundColor: "white", height: 350, marginTop: 100, width: '95%' }}>
                                                 <Link to={'/detail/' + item._id + '/' + to_slug(item.ten)} className="a_item">
                                                     <div className="row">
                                                         <Image style={{ width: '100%', height: 180 }} src={item.img.chinh} />

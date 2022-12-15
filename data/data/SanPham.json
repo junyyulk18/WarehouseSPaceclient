@@ -176,7 +176,7 @@
   "ten": "Điện Thoại Samsung Galaxy S20 Plus",
   "lowerTen": "dien thoai samsung galaxy s20 plus - hang chinh hang - da kich hoat bao hanh dien tu",
   "img": {
-    "chinh": "https://salt.tikicdn.com/cache/w1200/ts/product/ab/18/e1/de59a5bd4d512de45979147c063eda7b.jpg",
+    "chinh": "https://cdn.tgdd.vn/Products/Images/42/217936/samsung-galaxy-s20-plus-xam-600x600-200x200.jpg",
     "phu": [
       "https://salt.tikicdn.com/cache/w1200/ts/product/5d/7f/db/e9f28083e15f4858ae8053796e5575f9.jpg",
       "https://salt.tikicdn.com/cache/w1200/ts/product/4d/b7/51/1ff063c68f8ca2c28152bf66946baeb8.jpg",
@@ -283,7 +283,8 @@
   "idUser": [
     "5e9ab836699ae60b147a2822",
     "5e9ab673699ae60b147a2821",
-    "6395758648faae4318226208"
+    "6395758648faae4318226208",
+    "61bfa7694f99e11894abeaa8"
   ],
   "idEvent": "",
   "isAccept": true,
@@ -337,7 +338,8 @@
   "idUser": [
     "5e9ab836699ae60b147a2822",
     "5e9ab673699ae60b147a2821",
-    "6395758648faae4318226208"
+    "6395758648faae4318226208",
+    "61bfa7694f99e11894abeaa8"
   ],
   "idShop": "SHOP-ADDFFS",
   "idEvent": "",
@@ -719,7 +721,8 @@
     "5ec8dac43d8f9e78b0a86900"
   ],
   "idUser": [
-    "608a6cd8db2a8d456c4b6e8d"
+    "608a6cd8db2a8d456c4b6e8d",
+    "6395758648faae4318226208"
   ],
   "idShop": "SHOP-D156AB",
   "idEvent": "",
@@ -1270,7 +1273,7 @@
   "giaTriGiamGia": 3000000,
   "giaCuoiCung": 7490000,
   "soLuong": 20,
-  "soLuongDaBan": 0,
+  "soLuongDaBan": 3,
   "thongTinBaoHanh": {
     "baoHanh": true,
     "loaiBaoHanh": 0,
@@ -1290,7 +1293,8 @@
   "idUser": [
     "5ed37e34027d005bd00e9f14",
     "618a3978c08c4f4694e764af",
-    "6395758648faae4318226208"
+    "6395758648faae4318226208",
+    "61bfa7694f99e11894abeaa8"
   ],
   "idShop": "SHOP-5F1B7A",
   "idEvent": "",
@@ -1450,7 +1454,8 @@
   "idUser": [
     "618a3978c08c4f4694e764af",
     "61bfa7694f99e11894abeaa8",
-    "6395758648faae4318226208"
+    "6395758648faae4318226208",
+    "5e9ab673699ae60b147a2821"
   ],
   "idShop": "SHOP-5F1B7A",
   "idEvent": "",
@@ -1586,7 +1591,7 @@
   "giaTriGiamGia": 300000,
   "giaCuoiCung": 3990000,
   "soLuong": 30,
-  "soLuongDaBan": 21,
+  "soLuongDaBan": 24,
   "thongTinBaoHanh": {
     "baoHanh": true,
     "loaiBaoHanh": 0,
@@ -1661,7 +1666,8 @@
   ],
   "idUser": [
     "5e9ab673699ae60b147a2821",
-    "6395758648faae4318226208"
+    "6395758648faae4318226208",
+    "61bfa7694f99e11894abeaa8"
   ],
   "idShop": "SHOP-DD03CB",
   "idEvent": "",
@@ -1676,7 +1682,7 @@
   "ten": "SAMSUNG Z FOLD 4 512GB",
   "lowerTen": "samsung z fold 4 512gb",
   "img": {
-    "chinh": "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/FOLD%204_BLUE.jpg",
+    "chinh": "https://www.didongmy.com/vnt_upload/product/08_2022/thumbs/(600x600)_Z_Fold_4_Green_Gray_640x640_didongmy_2.png",
     "phu": [
       "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/F4_BLACK.jpg",
       "https://anhduongmobile.com.vn/uploads/editor/images/SAMSUNG%202/Z.FOLD/Z.FOLD4/F4_BLACK.jpg"
@@ -1694,7 +1700,7 @@
   "giaTriGiamGia": 0,
   "giaCuoiCung": 32600000,
   "soLuong": 15,
-  "soLuongDaBan": 0,
+  "soLuongDaBan": 1,
   "thongTinBaoHanh": {
     "baoHanh": true,
     "loaiBaoHanh": 1,

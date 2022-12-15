@@ -255,7 +255,7 @@
     "ten": "SellPhones",
     "lowerTen": "sellphones",
     "diaChi": "14 - Nguyễn Văn Bảo - Gò Vấp - TP.HCM",
-    "logoShop": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fungngocsonkt.png?alt=media&token=065dd663-3a92-4d57-b1ab-0fa34ddfc6fd",
+    "logoShop": "data:image/png;base64,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",
     "keyPaypal": "123456",
     "viShop": "",
     "ngayTao": {
@@ -266,10 +266,10 @@
     "moTa": "Hợp tác cùng WareHouse!\nMọi thắc mắc liên hệ cho chúng tôi\nSĐT: 0342661063\nEmail: ungngocsonkt@gmail.com",
     "img": {
       "carousel": [
-        "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FGSDT.jpg?alt=media&token=27ad94a0-1367-4719-b1b6-875be15ae7ba"
+        "https://i.pinimg.com/originals/f0/f5/a6/f0f5a6cc6bff547d2c7d5cbcb00bea85.png"
       ],
-      "banner1": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fimages%20(1).png?alt=media&token=f46d88fb-7220-4987-a898-6bad706514df",
-      "banner2": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fimages%20(1).png?alt=media&token=d3efedc1-a6de-4747-9c3f-8538d8a78b81"
+      "banner1": "https://rukminim1.flixcart.com/flap/1800/1800/image/3ae7fea26c98e040.png?q=80",
+      "banner2": "https://headerbidding.co/wp-content/uploads/2018/09/Best-Mobile-Ad-Sizes.png"
     },
     "isLock": false
   },
@@ -334,7 +334,7 @@
     "ten": "Thế Giới Alo",
     "lowerTen": "the gioi alo",
     "diaChi": "123 Minh Phụng",
-    "logoShop": "http://www.thegioialo.com.vn/vnt_upload/news/06_2015/logo_thegioialo_2_1.jpg",
+    "logoShop": "https://www.thegioialo.com.vn/vnt_upload/weblink/logo_footer.gif",
     "keyPaypal": "",
     "viShop": "",
     "ngayTao": {
