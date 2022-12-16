@@ -4,7 +4,8 @@ import 'firebase/analytics';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAn0hB0skriGqd4WxE7jpFv1ibeNaF21mI",
-  authDomain: "warehousespace-36258.firebaseapp.com",
+  authDomain: "https://warehouse-spaceclient.vercel.app",
+  //"warehousespace-36258.firebaseapp.com",
   projectId: "warehousespace-36258",
   storageBucket: "warehousespace-36258.appspot.com",
   messagingSenderId: "157925804181",
