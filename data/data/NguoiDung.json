@@ -37,14 +37,14 @@
   },
   "ten": "Sầm Thị Hoàng Kim",
   "lowerTen": "sam thi hoang kim",
-  "email": "junyk7848@gmail.com",
+  "email": "ungngocsonkt@gmail.com",
   "sdt": "0342661063",
   "cmnd": "087388387",
   "ngaySinh": "1999-07-14T17:00:00.000Z",
   "gioiTinh": 1,
   "taiKhoan": {
-    "tenTaiKhoan": "junyk7848@gmail.com",
-    "matKhau": "$2a$12$4jXQ2aRRDGRS5i55oPtnuu/VNIuu.tKFOpt8WtrKavuhVhHFNaLQ2"
+    "tenTaiKhoan": "ungngocsonkt@gmail.com",
+    "matKhau": "$2a$12$i9Wv.eTbGX.bBLQq7Tcxv.vWY07HDIAuS11oTJDFuqhXq6NYvU5NG"
   },
   "thongTinShop": {
     "ten": "Kidosince",
@@ -314,45 +314,4 @@
   "isDelete": false,
   "iat": 1670739314,
   "exp": 1670740214
-},{
-  "_id": {
-    "$oid": "639edae9da96a63804650919"
-  },
-  "ten": "tester",
-  "lowerTen": "tester",
-  "email": "trangsam1801@gmail.com",
-  "sdt": "0918577589",
-  "cmnd": "079301023872",
-  "ngaySinh": "2002-10-20T17:00:00.000Z",
-  "gioiTinh": 0,
-  "taiKhoan": {
-    "tenTaiKhoan": "trangsam1801@gmail.com",
-    "matKhau": "$2b$10$ydO6KMK2yxF6myRnYLbPZu8AF.vmrBQjNUYs0Ef0His.wgsP5OZKu"
-  },
-  "thongTinShop": {
-    "idShop": "SHOP-7BF51C",
-    "ten": "DareU",
-    "lowerTen": "dareu",
-    "diaChi": "321 Lê Văn quới",
-    "logoShop": "https://firebasestorage.googleapis.com/v0/b/warehousespace-36258.appspot.com/o/images%2F275_AppleWatchSEGPS40mmMidnightAluminumMidnightSportBand.png?alt=media&token=59ddc45f-2a00-47ac-bdef-75986fdc17fe",
-    "keyPaypal": "",
-    "viShop": "",
-    "ngayTao": {
-      "$date": {
-        "$numberLong": "1671355436334"
-      }
-    },
-    "moTa": "Bán phụ kiện máy tính",
-    "img": {
-      "carousel": [],
-      "banner1": "",
-      "banner2": ""
-    },
-    "isLock": false
-  },
-  "vaiTro": 1,
-  "isLock": false,
-  "isDelete": false,
-  "iat": 1671355093,
-  "exp": 1671355993
 }]
